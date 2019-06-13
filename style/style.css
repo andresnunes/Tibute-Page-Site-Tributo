@@ -31,7 +31,7 @@
   margin-bottom: 20px;
   margin-right: auto;
   margin-left: auto;
-  font-size: 1.12em;
+  font-size: 1em;
 }
 
 .info{
@@ -44,7 +44,7 @@
 }
 .content{
   width: 100%;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 li{
@@ -79,5 +79,11 @@ p{
   }
   .info{
     width: 90%;
+  }
+  p{
+    width: 70%;
+  }
+  .year{
+    width: 20px;
   }
 }
