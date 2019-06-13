@@ -71,3 +71,9 @@ p{
   margin-top:10px;
   margin-bottom: 60px;
 }
+
+@media (max-width: 600px){
+  .info{
+    width: 90%;
+  }
+}
