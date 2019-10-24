@@ -6,7 +6,7 @@ que apesar de ser um brilhante matemática, não pode trazer grandes inovações
 🇺🇸 This site is a tribute to Ada Lovelave, one of the first creators of programming,
 that despite being a brilliant math, can not bring major innovations due to hers untimely death.
 
-## Técnologias usadas nesse projeto | Technologies used in this project:
+## Technologies used in this project | Técnologias usadas nesse projeto:
 
 * HTML
 * CSS
